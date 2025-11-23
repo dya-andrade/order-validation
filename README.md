@@ -14,12 +14,13 @@ Seguindo rigorosamente os princípios dos artigos:
 1. **Mark Seemann — “Validation and Business Rules”**
 2. **James Hickey — “Where Do I Put My Business Rules and Validation?”**
 
-> 🔽
-> **Links das referências (inserir aqui):**
->
-> * [link 1]
-> * [link 2]
->   🔼
+🔽 Referências oficiais utilizadas neste projeto
+
+* Mark Seemann — Validation and Business Rules
+  https://blog.ploeh.dk/2023/06/26/validation-and-business-rules/
+
+* James Hickey — Where Do I Put My Business Rules and Validation?
+  https://builtwithdot.net/blog/where-do-i-put-my-business-rules-and-validation
 
 Este README aprofunda conceitos, camadas, separação de responsabilidades e usa **recursos do Java 25** para tornar o domínio mais expressivo, seguro e limpo.
 
@@ -325,8 +326,8 @@ java -version
 ### 7.2 Clonar o projeto
 
 ```shell
-git clone https://github.com/seuusuario/nome-projeto.git
-cd nome-projeto
+git clone git@github.com:dya-andrade/order-validation.gitt
+cd order-validation
 ```
 
 ---
