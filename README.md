@@ -5,7 +5,7 @@ Este documento explica como implementar um sistema totalmente alinhado com:
 * **DDD (Domain-Driven Design)**
 * **Validação na borda (Validation)**
 * **Regras de negócio no domínio (Business Rules)**
-* **JPA + Postgres** (sem Kafka)
+* **JPA + Postgres**
 * **Arquitetura limpa e modular**
 * **Java 25 com recursos modernos**
 
@@ -279,7 +279,7 @@ Explicação:
 
 ---
 
-# 🏦 6. Persistência com JPA (sem Kafka)
+# 🏦 6. Persistência com JPA
 
 Este projeto usa:
 
