@@ -1,4 +1,4 @@
-# 📘 **DDD, Validação e Regras de Negócio em Java 25 com JPA (sem Kafka)**
+# 📘 **DDD, Validação e Regras de Negócio em Java 25 com JPA**
 
 Este documento explica como implementar um sistema totalmente alinhado com:
 
