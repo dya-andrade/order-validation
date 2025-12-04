@@ -326,7 +326,7 @@ java -version
 ### 7.2 Clonar o projeto
 
 ```shell
-git clone git@github.com:dya-andrade/order-validation.gitt
+git clone git@github.com:dya-andrade/order-validation.git
 cd order-validation
 ```
 
